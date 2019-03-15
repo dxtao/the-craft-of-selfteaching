@@ -80,3 +80,5 @@ TeachYourSelf(coding)
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
 ![CC-BY-NC-ND](images/CC-BY-NC-ND.png?raw=true "CC-BY-NC-ND")
+
+<a href ="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/">git入门</a>
